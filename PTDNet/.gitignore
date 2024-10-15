@@ -1,0 +1,44 @@
+# no build files
+build/
+
+# no editor files
+.vscode/
+
+
+# no log files
+*.log
+*.pdf
+*.png
+*.img
+log/
+picture/
+
+# no data files
+data/
+dataset/
+
+# no exe bin
+a.out
+*.o
+test.*
+test1*
+test-py.*
+
+# no tmp file
+tmp.cfg
+tmp/
+
+# no zip files
+*.zip
+
+# ignore exp
+
+# config files
+node_modules/
+saved_modules/
+package-lock.json
+
+# dataset directory
+data/
+dataset/
+data-gcn/
